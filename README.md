@@ -7,7 +7,7 @@ in 19 dec 2022
 Bikeshare project 
 
 ### Description
-Use Python to understand U.S. bikeshare data. Calculate statistics and build an interactive environment where a user chooses the data and filter for a dataset to analyze.
+we use Python to understand U.S. bikeshare data and Calculate statistics and build an interactive environment where a user chooses the data and filter for a dataset to analyze.
 
 ### Files used
 https://towardsdatascience.com/10-python-file-system-methods-you-should-know-799f90ef13c2
